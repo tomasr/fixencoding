@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{EF7E3281-CD33-11D4-8326-00C04FA0CE8D}") = "EncodingPipelineTest", "EncodingPipelineTest.btproj", "{975B58B6-6480-4202-8D66-6A918292F19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Deployment|.NET = Deployment|.NET
+		Development|.NET = Development|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975B58B6-6480-4202-8D66-6A918292F19B}.Deployment|.NET.ActiveCfg = Deployment|.NET
+		{975B58B6-6480-4202-8D66-6A918292F19B}.Deployment|.NET.Build.0 = Deployment|.NET
+		{975B58B6-6480-4202-8D66-6A918292F19B}.Deployment|.NET.Deploy.0 = Deployment|.NET
+		{975B58B6-6480-4202-8D66-6A918292F19B}.Development|.NET.ActiveCfg = Development|.NET
+		{975B58B6-6480-4202-8D66-6A918292F19B}.Development|.NET.Build.0 = Development|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
